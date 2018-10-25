@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="Date">datetext</string>
+    <string name="dateBox">datesource</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="status">status</string>
+    <string name="imageDesc">Status</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<Toolbar-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:theme="@style/AppTheme"-->
+        <!--android:id="@+id/toolbar"-->
+        <!--android:background="@android:color/holo_blue_light">-->
+    <!--</Toolbar>-->
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbar2"
+        android:theme="@style/AppTheme"
+        android:background="@android:color/holo_blue_light">
+    </android.support.v7.widget.Toolbar>
+
+</RelativeLayout>
